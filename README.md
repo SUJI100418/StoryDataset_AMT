@@ -1,2 +1,6 @@
 # StoryDataset_AMT
-크라우드 소싱을 이용하여 카드 이미지를 활용한 스토리 데이터 수집
+
+Story creation is a complex and challenging task. 
+Making an interesting story is even de003 manding. In this paper, we present a novel approach to build an illustration-based text story dataset. 
+We collect 384 illustration006 based text stories, where each story is clas007 sified with its ending type - either a happy ending or a sad ending.
+
